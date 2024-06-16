@@ -1,4 +1,4 @@
-# laboratorio-4-variables
+# Laboratorio 4: Variables
 
 Cómo compilar el repositorio:
 
