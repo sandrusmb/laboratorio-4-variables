@@ -6,7 +6,7 @@ Cómo compilar el repositorio:
 - Instala `npm install`
 - Ejecuta `npm run dev`
 
-Ejercicio:
+**Ejercicio:**
 
 Queremos mostrar información acerca de grupos musicales.
 
