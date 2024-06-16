@@ -30,3 +30,7 @@ Los grupos que vamos a mostrar:
     The Rolling Stones / 1962 / Activo: true / 🎸 Rock
 
 Queremos mostrar cada grupo por consola, el nombre del grupo de música queremos ponerlo en negrita, con fuente más grande y color de fondo verde.
+
+**Observaciones:**
+
+- Para indicar el estado de la banda y traducir a lenguaje humano el booleano del estado de la banda, he usado un ternario que indica "en activo" si el estado active es true e "inactiva" si es false.
